@@ -1,0 +1,1 @@
+load File.expand_path('../tasks/deploy-confirm.rake', __FILE__)
